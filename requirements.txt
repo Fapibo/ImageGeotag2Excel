@@ -1,0 +1,7 @@
+# pip3 install -r requirements.txt
+Pillow 
+GPSPhoto
+xlsxwriter
+datetime
+exifread
+piexif
