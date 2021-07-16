@@ -14,3 +14,9 @@ could be installed using:
 
 # misc
 exe file generated thanks to pyinstaller available in release
+
+
+# Donation
+If this project helps you, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=NL3QT4DBQKP5Q)
